@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8538"
-	"mapversion" "81"
+	"mapversion" "82"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "81"
+	"mapversion" "82"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -4365,7 +4365,7 @@ world
 		side
 		{
 			"id" "552"
-			"plane" "(352 -64 124) (384 -64 124) (384 -80 124)"
+			"plane" "(352 -80 124) (352 -64 124) (386 -64 124)"
 			"material" "DEV/DEV_MEASUREGENERIC01B"
 			"uaxis" "[1 0 0 -48] 0.25"
 			"vaxis" "[0 -1 0 -32] 0.25"
@@ -4376,7 +4376,7 @@ world
 		side
 		{
 			"id" "551"
-			"plane" "(352 -80 -5.96046e-06) (384 -80 -5.96046e-06) (384 -64 -5.96046e-06)"
+			"plane" "(352 -64 0) (352 -80 0) (386 -80 0)"
 			"material" "DEV/DEV_MEASUREGENERIC01B"
 			"uaxis" "[1 0 0 -48] 0.25"
 			"vaxis" "[0 -1 0 -32] 0.25"
@@ -4387,7 +4387,7 @@ world
 		side
 		{
 			"id" "550"
-			"plane" "(352 -64 124) (352 -80 124) (352 -80 -5.96046e-06)"
+			"plane" "(352 -80 0) (352 -64 0) (352 -64 124)"
 			"material" "DEV/DEV_MEASUREGENERIC01B"
 			"uaxis" "[0 1 0 32] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4398,7 +4398,7 @@ world
 		side
 		{
 			"id" "549"
-			"plane" "(384 -64 -5.96046e-06) (384 -80 -5.96046e-06) (384 -80 124)"
+			"plane" "(386 -64 0) (386 -80 0) (386 -80 124)"
 			"material" "DEV/DEV_MEASUREGENERIC01B"
 			"uaxis" "[0 1 0 32] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4409,7 +4409,7 @@ world
 		side
 		{
 			"id" "548"
-			"plane" "(384 -64 124) (352 -64 124) (352 -64 -5.96046e-06)"
+			"plane" "(352 -64 0) (386 -64 0) (386 -64 124)"
 			"material" "DEV/DEV_MEASUREGENERIC01B"
 			"uaxis" "[1 0 0 -48] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4420,7 +4420,7 @@ world
 		side
 		{
 			"id" "547"
-			"plane" "(384 -80 -5.96046e-06) (352 -80 -5.96046e-06) (352 -80 124)"
+			"plane" "(386 -80 0) (352 -80 0) (352 -80 124)"
 			"material" "DEV/DEV_MEASUREGENERIC01B"
 			"uaxis" "[1 0 0 -48] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
